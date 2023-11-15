@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Liu Qiang",
-  title: "Study for life",
+  title: "This is really cool! ",
   email: "alex@example.com",
   gitHub: "microsoft",
   instagram: "microsoft",
